@@ -3,7 +3,7 @@ Hi 👋 My name is Andrey Eryomenko
 
 Junior Java-developer
 --------------
-I am a beginner Java developer
+I am a beginner Java developer. I like to study, gain new knowledge and skills. I really like to create something new and useful.
 
 [My CV on Hexlet](https://cv.hexlet.io/ru/resumes/9699)
 
