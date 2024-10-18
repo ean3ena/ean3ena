@@ -5,12 +5,13 @@ Junior Java-developer
 --------------
 I am a beginner Java developer
 
-[My CV](https://cv.hexlet.io/ru/resumes/9699)
+[My CV on Hexlet](https://cv.hexlet.io/ru/resumes/9699)
 
-*   ✉️  You can contact me:
-*     - [ean3ena@yandex.ru](mailto:ean3ena@yandex.ru)
-*     - [Telegram](http://t.me/got_dumplings)
-*   🤝  I'm open to collaborating on interesting projects
+✉️  You can contact me:
+- [ean3ena@yandex.ru](mailto:ean3ena@yandex.ru)
+- [Telegram](http://t.me/got_dumplings)
+
+🤝  I'm open to collaborating on interesting projects
 
 ### Skills 
 <p align="left">
