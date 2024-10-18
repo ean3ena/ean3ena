@@ -1,11 +1,15 @@
 Hi 👋 My name is Andrey Eryomenko
 =================================
 
-Java-Developer
+Junior Java-developer
 --------------
+I am a beginner Java developer
 
-*   🌍  I'm based in Russia, Smolensk
-*   ✉️  You can contact me at [ean3ena@yandex.ru](mailto:ean3ena@yandex.ru)
+[My CV](https://cv.hexlet.io/ru/resumes/9699)
+
+*   ✉️  You can contact me:
+*     - [ean3ena@yandex.ru](mailto:ean3ena@yandex.ru)
+*     - [Telegram](http://t.me/got_dumplings)
 *   🤝  I'm open to collaborating on interesting projects
 
 ### Skills 
